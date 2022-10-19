@@ -1,0 +1,127 @@
+ * {
+     margin: 0;
+     padding: 0;
+ }
+  
+ body {
+     background-color: #fff;
+     box-sizing: border-box;
+ }
+
+ .content {
+     margin: 4px auto;
+     width: 30%;
+     /* height: 700px; */
+ }
+
+ .link {
+     color: #c2272d;
+     text-decoration: none;
+
+ }
+
+ .flex {
+     display: flex;
+ }
+
+ .head {
+     margin-bottom: 5px;
+ }
+
+ .div-p {
+     opacity: .5;
+     font-family: Arial, Helvetica, sans-serif;
+     text-transform: capitalize;
+     font-weight: bold;
+     padding-left: 5px;
+ }
+
+ .div-image {
+     width: 72px;
+     height: 70px;
+     background-color: #c2272d;
+ }
+
+ .image {
+     width: 70px;
+ }
+
+ form {
+     font-family: Arial, Helvetica, sans-serif;
+     padding: 20px;
+     background-color: white;
+     border: 2px solid #ddd;
+     border-radius: 5px;
+     width: 100%;
+ }
+
+ .password,
+ .id,
+ .month,
+ .email {
+     width: 97%;
+     padding: 8px;
+     border: 2px solid #ccc;
+     border-radius: 5px;
+     margin-bottom: 5px;
+ }
+
+ button {
+
+     background-color: #c2272d;
+     border: 0;
+     border-radius: 20px;
+     color: white;
+     text-align: center;
+     padding: 10px;
+     width: 90%;
+     margin: 10px 0 5px 0;
+
+ }
+
+ .p-link {
+     text-align: center;
+ }
+
+ #Branch,
+ #email1,
+ #frist_name,
+ #last_name,
+ #Month,
+ #national_id,
+ #password1,
+ #Track {
+     opacity: .5;
+
+ }
+
+.div-p p{
+    padding-top: 10px;
+}
+
+
+ .branch,
+ .track,
+ .Frist,
+ .Last {
+
+     margin-bottom: 5px;
+     padding: 8px;
+     border: 2px solid #ccc;
+     border-radius: 5px;
+     width: 200px;
+ }
+ .Last,.track{
+
+    margin-left: 25px;
+
+ }
+ #last_name,#Track{
+    margin-left: 25px;
+ }
+
+ .FOOTER{
+    margin-top: 10PX;
+    margin-left: -90PX;
+    width: 900PX;
+ }

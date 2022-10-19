@@ -1,0 +1,98 @@
+body {
+     background-color: #fff;;
+     box-sizing: border-box;
+}
+
+.link {
+     color: #c2272d;
+     text-decoration: none;
+
+}
+
+.email1 {
+     border-left: 5px solid #c2272d;
+     border-right: 2px solid #ccc;
+     border-top: 2px solid #ccc;
+     border-bottom: 2px solid #ccc;
+     border-radius: 5px;
+     width: 90%;
+     margin: 20px 0;
+     padding: 8px;
+}
+
+.content {
+     margin: 40px auto;
+     width: 30%;
+
+}
+
+.flex {
+     display: flex;
+}
+
+
+.div-image {
+     width: 72px;
+     height: 70px;
+     background-color: #c2272d;
+}
+
+.image {
+     width: 70px;
+}
+
+.div-p {
+     opacity: .5;
+     font-family: Arial, Helvetica, sans-serif;
+     text-transform: capitalize;
+     font-weight: bold;
+     padding-left: 5px;
+}
+
+.sign {
+
+     font-weight: 700;
+     font-size: 30px;
+    
+}
+
+form {
+font-family: Arial, Helvetica, sans-serif;
+     padding: 20px;
+     background-color: white;
+     border: 2px solid #ddd;
+     border-radius: 5px;
+     width: 100%;
+}
+
+.password {
+     width: 90%;
+     margin: 20px 0;
+     padding: 8px;
+     border: 2px solid #ccc;
+     border-radius: 5px;
+}
+
+button {
+
+     background-color: #c2272d;
+     border: 0;
+     border-radius: 20px;
+     color: white;
+     text-align: center;
+     padding: 10px;
+     width: 90%;
+     margin: 30px 0;
+
+}
+.p-link{
+     text-align: center;
+}
+#email,#password1{
+     opacity: .5;
+}
+ .FOOTER {
+      margin-top: 50PX;
+      margin-left: -90PX;
+      width: 900PX;
+ }
